@@ -1,5 +1,6 @@
 # PyTorch-
-교재 '파이토치로 배우는 자연어 처리'를 공부한 저장소입니다.
+교재 '파이토치로 배우는 자연어 처리'를 공부한 저장소입니다.![Natural Language Processing with PyTorch](https://user-images.githubusercontent.com/86637058/153210775-62f5b6ef-82c1-4858-9abc-115e9ccc39bc.jpeg)
+
 
 
 목차
